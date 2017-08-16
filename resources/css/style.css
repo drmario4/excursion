@@ -7,7 +7,7 @@ body {
 }
 
 .topHead {
-  font-family: verdona;
+  font-family: verdana;
   font-weight: normal;
   font-size: 50px;
   text-align: center;
@@ -15,6 +15,7 @@ body {
 }
 
 .download {
+  font-family: verdana;
   color: aquamarine;
   text-sixe: 16px;
   text-align:center;
